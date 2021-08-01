@@ -9,3 +9,7 @@ The first lecture jumps right into building the first application of the quarter
 ## Lecture 2 :white_check_mark:
 #### Learning More about SwiftUI
 Development on Memorize continues.  Creating reusable components (a Card in the game) and combining them to make more complex user-interfaces.
+
+## Lecture 3 :white_check_mark:
+#### MVVM
+Conceptual overview of the architectural paradigm underlying the development of applications for iOS using SwiftUI (known as MVVM) and an explanation of a fundamental component of understanding the Swift programming language: its type system.  Then both of these are applied to the Memorize application started in the first two lectures.
